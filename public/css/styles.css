@@ -1,0 +1,92 @@
+.image{
+  background-image: url("Drums.jpg");
+  background-size: cover;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  }
+
+  .logo{
+  margin-left: 40px;
+  border-radius: 50%;
+    height: 100px;
+    width: 100px;
+  }
+.heading{
+
+  color: white;
+float: right;
+}
+  .marquee{
+    font-size: 20px;
+
+  }
+  .upper{
+    color : white;
+    width:100% ;
+
+    background-color: #4D77FF
+
+  }
+
+
+  .flex-container {
+      display: flex;
+
+        width: 60%;
+
+        margin-left: 330px;
+        margin-top: 60px;
+
+  }
+
+  .flex-child {
+      flex: 1;
+      padding-left: 30px;
+      margin-left: 30px;
+      border: 2px solid yellow;
+  }
+
+  .flex-child:first-child {
+      margin-right: 20px;
+  }
+  .footer {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .heart{
+    color: red;
+    font-size: 20px;
+  }
+  .head{
+    margin : 20px;
+    text-align: center;
+  }
+  .btn{
+    margin-bottom: 12px;
+  }
+  .marg{
+    margin-top: 100px;
+    text-align: center;
+  }
+  .btn2 {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .note{
+    margin-top: 10px;
+    text-align: center;
+  }
+  .pad{
+    margin-top: 50px;
+    text-align: center;
+  }
+  .note1{
+    margin-top: 20px;
+    text-align: center;
+  }
+  .btn3{
+    margin-top: 20px;
+    text-align: center;
+
+  }
